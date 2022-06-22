@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@drawable/system</item>
+    <item name="ic_menu_gallery" type="drawable">@drawable/supervisor</item>
+    <item name="ic_menu_slideshow" type="drawable">@drawable/supervisor1</item>
+    <item name="ic_menu_manage" type="drawable">@drawable/setting</item>
+    <item name="ic_menu_share" type="drawable">@drawable/advise</item>
+    <item name="ic_menu_send" type="drawable">@drawable/about</item>
+    <item name="ic_menu_logout" type="drawable">@drawable/logout</item>
+
+</resources>
