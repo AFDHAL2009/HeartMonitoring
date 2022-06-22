@@ -1,2 +1,2 @@
 # HeartMonitoring
-Application android pour la surveillance cardiaque de patient en temps reel
+an Android application for real-time  heart mintoring with an ESP32 module.
